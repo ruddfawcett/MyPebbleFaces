@@ -1,0 +1,12 @@
+platform :ios, '6.0'
+
+pod 'SDWebImage', '~> 3.3'
+pod 'AFNetworking', '~> 1.3.1'
+pod 'Tapstream', '~> 2.3'
+pod 'FlatUIKit', '~> 1.2'
+pod 'SVProgressHUD'
+pod 'SVPullToRefresh'
+pod 'TestFlightSDK', '~> 2.0'
+pod 'RNCryptor', '~> 2.1'
+pod 'Parse', '~> 1.2.15'
+pod 'Reachability', '~> 3.1.1'
